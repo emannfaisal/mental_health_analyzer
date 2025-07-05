@@ -17,10 +17,10 @@ A Flask-based web application that offers mental health assessments, emotional a
 | Database | SQLAlchemy                         |
 | UI       | HTML/CSS/Bootstrap (assumed)       |
 
-🚀 Getting Started (Updated)
+To operate the project:
 1. Install required Python libraries globally
 pip install -r requirements.txt
-⚠️ You can skip this step if you already have these libraries installed.
+(You can skip this step if you already have these libraries installed.)
 2. (Optional but recommended) Set up a virtual environment
 python -m venv venv
 source venv/bin/activate     # On Windows: venv\Scripts\activate
